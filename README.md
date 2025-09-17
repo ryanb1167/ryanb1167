@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Ryan 👋
 
-<!--
-**ryanb1167/ryanb1167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Old Dominion University 
+I am currently studying to get my Bachelor's in CS
 
-Here are some ideas to get you started:
+- Languages learned/currently learning include:
+- Java
+- Python
+- C/C++
+- HTMl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Courses I have taken or am currently taking include:
+- Programming With Java
+- Object-Oriented Design/Programming
+- Unix For Programmers 
+- Internet Concepts 
+- Princip-Programming Languages 
+- Intro To Discrete Structures
+
+- Projects I have completed include:
+- Hospital Simulation- Modeled a hospital environment with doctors, patients, and Admin classes, integrating data persistence and form handling 
+- DungeonStroll Game- Developed a text-based RPG with various classes and logic being incorporated, as well as JUnit testing
+- Parking Garage Internet Cafe Simulation- A simulation built with customer ordering, garage management, and controller implementation 
